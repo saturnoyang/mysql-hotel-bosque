@@ -1,1 +1,2 @@
 describe habitaciones;
+select now();
